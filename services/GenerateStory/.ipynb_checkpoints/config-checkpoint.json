@@ -1,0 +1,45 @@
+{
+  "workflow_name": "generate_story",
+  "input_mappings": [
+    {
+      "node_id": "5",
+      "input_field": "prompt",
+      "data_type": "str",
+      "required": true,
+      "default_value": "",
+      "description": "输入主角的提示词"
+    },
+    {
+      "node_id": "6",
+      "input_field": "prompt",
+      "data_type": "str",
+      "required": true,
+      "default_value": "",
+      "description": "输入故事的第一张图片的提示词"
+    },
+    {
+      "node_id": "7",
+      "input_field": "prompt",
+      "data_type": "str",
+      "required": true,
+      "default_value": "",
+      "description": "输入故事的第二张图片的提示词"
+    },
+    {
+      "node_id": "8",
+      "input_field": "prompt",
+      "data_type": "str",
+      "required": true,
+      "default_value": "",
+      "description": "输入故事的第三张图片的提示词"
+    },
+    {
+      "node_id": "26",
+      "input_field": "prompt",
+      "data_type": "str",
+      "required": true,
+      "default_value": "",
+      "description": "输入故事的第四张图片的提示词"
+    }
+  ]
+}

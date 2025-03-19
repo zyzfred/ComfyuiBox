@@ -1,0 +1,13 @@
+{
+  "workflow_name": "multi_angle",
+  "input_mappings": [
+    {
+      "node_id": "44",
+      "input_field": "image",
+      "data_type": "str",
+      "required": true,
+      "default_value": "",
+      "description": "输入图片在comfy服务器中的绝对路径"
+    }
+  ]
+}
