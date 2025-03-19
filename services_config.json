@@ -3,14 +3,16 @@
     {
       "name": "MultiAngle",
       "server": "server_a",
-      "workflow": "data/workflows/multi_angle/workflow.json",
-      "config": "data/workflows/multi_angle/config.json"
+      "workflow": "data/workflows/server_a/multi_angle/workflow.json",
+      "config": "data/workflows/server_a/multi_angle/config.json",
+      "date": "2025-03-19 17:30:07"
     },
     {
       "name": "GenerateStory",
       "server": "server_a",
-      "workflow": "data/workflows/generate_story/workflow.json",
-      "config": "data/workflows/generate_story/config.json"
+      "workflow": "data/workflows/server_a/generate_story/workflow.json",
+      "config": "data/workflows/server_a/generate_story/config.json",
+      "date": "2025-03-19 17:30:07"
     }
   ]
 }
